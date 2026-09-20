@@ -4,6 +4,10 @@ Este é um projeto prático de Análise de Dados desenvolvido em Python. O objet
 
 Projeto inspirado no tutorial de Matplotlib da [Asimov Dados](https://www.youtube.com/watch?v=unEdvkCjL8U).
 
+## 📸 Resultado Final do Dashboard
+
+![Dashboard de Análise de Ações](figura_analise_acoes.png)
+
 ## 🛠️ Ferramentas Utilizadas
 
 - **Python 3**
